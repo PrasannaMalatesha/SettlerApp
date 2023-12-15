@@ -1,4 +1,4 @@
-# [Settler](https://settler.joqim.com)
+# [Settler]
 
 Settler is a user intuitive web application built with Next.js and TypeScript, utilizing the powerful [Shadcn UI](https://ui.shadcn.com/) framework. <br/>
 

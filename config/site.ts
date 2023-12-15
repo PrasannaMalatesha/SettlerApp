@@ -8,8 +8,8 @@ export const siteConfig = {
 
   ],
   links: {
-    twitter: "https://twitter.com/joqim",
-    github: "https://github.com/joqim/settler",
-    docs: "https://github.com/joqim/settler",
+    twitter: "https://twitter.com",
+    github: "https://github.com",
+    docs: "https://github.com",
   },
 }
