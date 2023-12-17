@@ -13,7 +13,7 @@ const getSupabase = (userId, SUPABASE_JWT_SECRET) => {
     }
 
     //console.log("In supabase payload", payload, SUPABASE_JWT_SECRET)
-    const token = jwt.sign(payload, SUPABASE_JWT_SECRET)
+    const token = jwt.sign(payload, SUPABASE_JWT_SECRET);
 
     options.global = {
         headers: {
