@@ -55,7 +55,7 @@ type AccountFormProps = {
     index: number;
     playerCount: number[];
     members: any[];
-};
+}
 
 export function AccountForm({ index, playerCount, members }: AccountFormProps) {
   const form = useForm<AccountFormValues>({
