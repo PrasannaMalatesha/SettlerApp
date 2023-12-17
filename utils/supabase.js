@@ -17,7 +17,7 @@ const getSupabase = (userId, SUPABASE_JWT_SECRET) => {
 
     options.global = {
         headers: {
-          Authorization: `Bearer ${token}`,
+          Authorization: `Bearer ${token}`
         },
       }
    }
